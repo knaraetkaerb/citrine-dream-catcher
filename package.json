@@ -1,0 +1,33 @@
+{
+  "name": "citrine-dream-catcher",
+  "version": "1.0.0",
+  "description": "Provides a framework for developing fitness and wellness apps, promoting health and active lifestyles through technology.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/citrine-dream-catcher"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "amethyst-void-traveler": "1.0.0",
+    "tourmaline-tide-shifter": "1.0.0",
+    "async": "1.0.0",
+    "multer": "1.0.0",
+    "react-dom": "1.0.0",
+    "ejs": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "dotenv": "1.0.0",
+    "cheerio": "1.0.0",
+    "express": "1.0.0",
+    "mongoose": "1.0.0",
+    "axios": "1.0.0",
+    "helmet": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
